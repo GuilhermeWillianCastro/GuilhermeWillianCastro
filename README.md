@@ -3,7 +3,7 @@
 <p align="center">
     <b>...</b><br><br>
     <i>
-        Currently working on answers you can't find on google search.<br>
+        Working on answers you won't find on google search.<br>
         </i><br>
     <a href="http://lattes.cnpq.br/6065289947296724">
         <img src="https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)" alt="lattes">
