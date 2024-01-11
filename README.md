@@ -5,16 +5,9 @@
     <i>
         Working on answers you won't find on google search.<br>
         </i><br>
-    <a href="http://lattes.cnpq.br/6065289947296724">
-        <img src="https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)" alt="lattes">
-    <br>
-    </a>
-    <a href="https://www.linkedin.com/in/castro-63/">
+    <a href="https://www.linkedin.com/in/castro63/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-   <a href="https://www.youtube.com/channel/UCERZzub-rY1iICBvkfkSChg?sub_confirmation=1">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-      </a>
     <a href="mailto:castro.ethng@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
