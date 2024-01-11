@@ -3,7 +3,7 @@
 <p align="center">
     <b>...</b><br><br>
     <i>
-        Working on answers you won't find on google search.<br>
+        Desenvolvendo respostas que você não encontra na pesquisa do Google!<br>
         </i><br>
     <a href="https://www.linkedin.com/in/castro63/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,10 +12,3 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
     <br>
-    
-    
-   
-    
-<!--
----
--->
