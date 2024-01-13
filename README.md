@@ -1,9 +1,8 @@
 <h1 align="center">hello dear <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt=""></h1>
 
 <p align="center">
-    <i>
-        Desenvolvendo respostas que você não encontra na pesquisa do Google!<br>
-        </i><br>
+            Desenvolvendo respostas que não encontro na pesquisa do Google.<br>
+    <br>
     <a href="https://www.linkedin.com/in/castro63/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
