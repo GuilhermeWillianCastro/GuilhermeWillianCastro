@@ -2,12 +2,12 @@
 
 <p align="center">
             Desenvolvendo respostas que não encontro na pesquisa do Google.<br>
-    <br>
-            
+    <br>            
     <a href="https://www.linkedin.com/in/castro63/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:castro.ethng@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
+    <br>
     <br>
