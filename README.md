@@ -3,7 +3,7 @@
 <p align="center">
             Todos os códigos aqui funcionam para um nível de 95,45% de confiança :blue_heart:  <br>
 <li> Trabalho com computação aplicada na metrologia, para automação de máquinas e equipamentos de medição utilizando visão computacional aplicada a sistemas de medição
-<li> Desenvolvendo relatórios de medição e gestão em Frameworks Stimulsoft integrados a Databases Oracle por meio de C#, VBA e SQL, com dados oriundos de validações e implementações de equações de incerteza de medição em linguagem funcional proprietária para procedimentos acreditados pelo Inmetro
+<li> Desenvolvo relatórios de medição e gestão em Frameworks Stimulsoft integrados a Databases Oracle por meio de C#, VBA e SQL, com dados oriundos de validações e implementações de equações de incerteza de medição em linguagem funcional proprietária para procedimentos acreditados pelo Inmetro
 <li> Atualmente estudo integração DMIS/Python
 <li> Além disso, sei todas as falas de Carros e Shrek 2 de cor :sweat_smile:
 
